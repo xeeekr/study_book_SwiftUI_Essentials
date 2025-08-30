@@ -14,12 +14,14 @@
 		05761BA52E616CDE008DB790 /* ch08.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ch08.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		05761BA62E616E82008DB790 /* ch09.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ch09.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		05761BA72E61A82D008DB790 /* ch10.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ch10.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		05761BA82E62886C008DB790 /* ch11.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ch11.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		051DEBF42E5F13DC00BD4C99 = {
 			isa = PBXGroup;
 			children = (
+				05761BA82E62886C008DB790 /* ch11.playground */,
 				05761BA72E61A82D008DB790 /* ch10.playground */,
 				05761BA62E616E82008DB790 /* ch09.playground */,
 				05761BA52E616CDE008DB790 /* ch08.playground */,
