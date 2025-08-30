@@ -19,12 +19,14 @@
 		05761BAA2E62A619008DB790 /* ch13.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ch13.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		05761BAB2E62ABCA008DB790 /* ch14.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ch14.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		05761BAC2E62B23F008DB790 /* ch15.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ch15.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		05761BE22E62B8B5008DB790 /* Ch17.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Ch17.xcodeproj; path = Ch17/Ch17.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		051DEBF42E5F13DC00BD4C99 = {
 			isa = PBXGroup;
 			children = (
+				05761BE22E62B8B5008DB790 /* Ch17.xcodeproj */,
 				05761BAC2E62B23F008DB790 /* ch15.playground */,
 				05761BAB2E62ABCA008DB790 /* ch14.playground */,
 				05761BAA2E62A619008DB790 /* ch13.playground */,
@@ -38,6 +40,13 @@
 				05761BA22E5F1CCA008DB790 /* ch05.playground */,
 				051DEBFB2E5F140E00BD4C99 /* ch04.playground */,
 			);
+			sourceTree = "<group>";
+		};
+		05761BE32E62B8B5008DB790 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -60,6 +69,12 @@
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 05761BE32E62B8B5008DB790 /* Products */;
+					ProjectRef = 05761BE22E62B8B5008DB790 /* Ch17.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 			);
